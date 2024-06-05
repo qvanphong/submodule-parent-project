@@ -1,0 +1,3 @@
+[submodule "silent-ml-flows"]
+	path = silent-ml-flows
+	url = https://github.com/qvanphong/submodule-a.git
